@@ -1,1 +1,1 @@
-# Start-pattern-python
+star pattern in python
